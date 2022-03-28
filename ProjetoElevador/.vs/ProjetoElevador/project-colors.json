@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b42253d-adbf-44bf-8ee4-4f59d78560a3": {
+      "ProjectGuid": "9b42253d-adbf-44bf-8ee4-4f59d78560a3",
+      "DisplayName": "ProjetoElevador",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

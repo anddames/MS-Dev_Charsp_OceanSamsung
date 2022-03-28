@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjetoElevador</name>
+    </assembly>
+    <members>
+        <member name="P:ProjetoElevador.Models.Elevador.CapacidadeTotal">
+            <summary>
+            Capacidade total do elevado já definida
+            </summary>
+        </member>
+        <member name="P:ProjetoElevador.Models.Elevador.TotalDeAndaresDoPredio">
+            <summary>
+            Total de andares do predio já com definição
+            </summary>
+        </member>
+        <member name="F:ProjetoElevador.Models.Elevador.andarAtual">
+            <summary> 
+            incia-se o elevador do terreo 
+            </summary>
+        </member>
+        <member name="M:ProjetoElevador.Models.Elevador.Inicializar">
+            <summary> 
+            iniciar o elevador
+            </summary> 
+        </member>
+        <member name="M:ProjetoElevador.Models.Elevador.Subir">
+            <summary>
+            Metodo que faz o elevador Subir para o andar desejado pelo usuário
+            </summary>
+        </member>
+        <member name="M:ProjetoElevador.Models.Elevador.Descer">
+            <summary>
+            Metodo que fazr o elevador Descer para o andar desejado pelo usuário
+            </summary>
+        </member>
+        <member name="M:ProjetoElevador.Models.Elevador.Entrar">
+            <summary>
+            Metodo para inserir pessoas no elevador
+            </summary>
+        </member>
+        <member name="M:ProjetoElevador.Models.Elevador.Sair">
+            <summary>
+            Metodo para tirar pessoas do elevador
+            </summary>
+        </member>
+    </members>
+</doc>
