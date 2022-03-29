@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
+      "projectUniqueName": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\Projeto_Final\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
       "projectName": "ProjetoElevador_Documentacao",
-      "projectPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
+      "projectPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\Projeto_Final\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
       "packagesPath": "C:\\Users\\AndreDdeOliveiraPere\\.nuget\\packages\\",
-      "outputPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\obj\\",
+      "outputPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\Projeto_Final\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
+      "projectUniqueName": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\Projeto_Final\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
       "projectName": "ProjetoElevador",
-      "projectPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
+      "projectPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\Projeto_Final\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
       "packagesPath": "C:\\Users\\AndreDdeOliveiraPere\\.nuget\\packages\\",
-      "outputPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\ProjetoElevador\\ProjetoElevador\\obj\\",
+      "outputPath": "D:\\TEMP\\Andre\\Cursos\\.Net\\C#\\Curso De CSharp - OCEAN\\Projeto_Final\\ProjetoElevador\\ProjetoElevador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

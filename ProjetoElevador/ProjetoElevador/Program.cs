@@ -13,7 +13,6 @@ namespace ProjetoElevador
             Console.WriteLine("Bem vindo ao software de elevador ");
             Console.WriteLine("--------------------------------------------------------");
             elevador.Inicializar();
-            Console.ReadLine();
         }
         
     }

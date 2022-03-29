@@ -4,6 +4,11 @@
         <name>ProjetoElevador</name>
     </assembly>
     <members>
+        <member name="T:ProjetoElevador.Models.Elevador">
+            <summary>
+            clase Elevador onde temo a inicilização e o metodo que controla o elevador instanciado
+            </summary>
+        </member>
         <member name="P:ProjetoElevador.Models.Elevador.CapacidadeTotal">
             <summary>
             Capacidade total do elevado já definida
@@ -43,6 +48,12 @@
             <summary>
             Metodo para tirar pessoas do elevador
             </summary>
+        </member>
+        <member name="M:ProjetoElevador.Models.Elevador.OpcaoUsuario">
+            <summary>
+            
+            </summary>
+            <returns></returns>
         </member>
     </members>
 </doc>
