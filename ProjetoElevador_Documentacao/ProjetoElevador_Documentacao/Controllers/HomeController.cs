@@ -23,7 +23,7 @@ namespace ProjetoElevador_Documentacao.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult DocCodigo()
         {
             return View();
         }
